@@ -3,3 +3,4 @@ A challenge organized recently in the data tech industry where every data enthus
 Here is the a link to my article/documentations on a detailed step-by-step cleaning process hosted on medium
 https://medium.com/@blessynuzezi/data-cleaning-fifa-2021-data-cleaning-and-transformation-d6f5fa040d3
 ![](./Image/FIFA-2021.png)
+![](./FIFA-202101.png)
